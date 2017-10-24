@@ -1,532 +1,647 @@
-@media (max-width: 1355px) {
-    .header .navbar .navbar-inner .collapse.cola {
-        padding-left: 15px;
-        padding-right: 15px
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav {
-        float: none;
-        text-align: center
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav .none {
-        display: none
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li {
-        float: none;
-        display: inline-block
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li a {
-        padding-right: 15px;
-        font-size: 12px;
-        font-weight: 700;
-        padding-left: 15px
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li:last-child form {
-        padding-left: 20px;
-        margin-left: 0
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li:last-child form input {
-        width: 250px
+@media (max-width: 1331px) {
+    .page .banner .main-carousel-outer .container .main-carousel-title {
+        margin-bottom: 30px;
+        font-size: 55px
     }
 }
 @media (max-width: 1199px) {
-    @-moz-document url-prefix() {
-        main.container section.company-info.col-lg-6 .standarts div.book-list .dark-blue.item a:nth-child(3) {
-            margin-top: 2px !important
-        }
+    section.prime-wiki-list.prime-partners .container .main-carousel-title {
+        font-size: 55px;
+        margin-bottom: 35px
     }
-    main.container {
-        width: 100%
+    section.our-history .history-in-years {
+        background: url(../img/dots.png) no-repeat top 28px left 418px
     }
-    main.container .company-info {
-        width: 59.685%;
-        padding-right: 0
+    section .container .col-lg-7 .img-rifle img {
+        padding-top: 100px;
+        width: 122%
     }
-    main.container .company-info .standarts .book-list .dark-blue {
-        z-index: 9999
+    section.white-block-services .container .col-lg-7 .img-rifle img {
+        margin: 0
     }
-    main.container .company-info .standarts .book-list .dark-blue a:nth-child(3) {
-        font-size: 10px
+    section.dark-block-services .container .col-lg-7 .img-rifle img {
+        margin-left: -120px
     }
-    main.container .company-info .standarts .book-list .dark-blue .bottom-figure:after {
-        content: "";
-        -ms-transform: skew(53deg);
-        transform: skew(53deg);
-        -moz-transform: skew(53deg);
-        -o-transform: skew(53deg);
-        background: #043551;
-        position: absolute;
-        bottom: -61px;
-        height: 31px;
-        left: 21px;
-        max-width: 210px;
-        width: 100%
+    section.white-block-services:nth-child(4) .container .col-lg-7 .img-rifle img {
+        margin-left: -24px
+    }
+    section.dark-block-services:nth-child(5) .col-lg-7 .img-rifle .book {
+        width: 46%;
+        right: -12px
     }
 }
-@media (max-width: 1120px) {
-    main.container aside.right, main.container aside.our-experts {
-        padding-left: 15px
+@media (max-width: 991px) {
+    section.our-history .history-in-years {
+        background: url(../img/dots.png) no-repeat top 65px left 345px
     }
-}
-@media (max-width: 1157px) {
-    main.container .company-info {
-        padding-left: 15px;
-        width: 57%
+    section.our-history .history-in-years .col-md-4 {
+        margin-bottom: 30px
     }
-}
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-    header.header section.prime {
-        padding-bottom: 50px
+    section.our-history .history-in-years .col-md-7 .history-text {
+        padding-top: 0
     }
-}
-@media (max-width: 1099px) {
-    @-moz-document url-prefix() {
-        main.container section.company-info.col-lg-6 .standarts div.book-list .dark-blue.item a:nth-child(2) {
-            margin-top: 12px !important
-        }
+    .page .blog-main.wiki-main.wiki-main-list .container .aside .aside-social li {
+        margin-right: 15px;
+        margin-left: 15px
     }
-    main.container .company-info div.standarts div.book-list .item .img {
-        margin-left: auto;
-        margin-right: auto
+    .banner.contacts-banner .prime-contacts h1, section.contacts.contacts-partners .container h2 {
+        font-size: 55px
     }
-    main.container .company-info div.standarts div.book-list .item .img:after {
-        left: -16px
+    section.contacts-page .container .col-md-5, section.contacts-partners .container .col-md-5 {
+        margin-bottom: 20px
     }
-    main.container .company-info div.standarts div.book-list .dark-blue a:nth-child(2) {
-        margin-top: 15px;
-        margin-bottom: 10px;
-        width: 124px
+    .our-team .our-team-list .col-lg-3 {
+        margin-bottom: 25px
     }
-    main.container .company-info div.standarts div.book-list .dark-blue a:nth-child(3) {
-        margin-top: 0;
-        width: 120px
+    .partnership .partnership-block {
+        margin-bottom: 25px
     }
-    main.container .company-info div.standarts div.book-list .dark-blue .bottom-figure:after {
-        bottom: -57px
+    .partnership .container .col-md-6 {
+        padding-left: 5px;
+        padding-right: 5px
     }
-    header.header .shapka.container-fluid .wrapper .contacts {
-        padding-right: 0
-    }
-    header.header .shapka.container-fluid .wrapper .contacts .number {
-        padding-right: 15px;
-        font-size: 20px
-    }
-    header.header .shapka.container-fluid .wrapper .contacts a {
-        font-size: 12px
-    }
-    header.header .shapka.container-fluid .wrapper .consultation a {
-        width: 170px;
-        padding: 4px
-    }
-}
-@media (max-width: 1086px) {
-    main.container .company-info {
-        padding-right: 0;
-        max-width: 52.3%
-    }
-    main.container .company-info .director-photo {
+    .partnership .partnership-and-vacancy .contact-info .email, .partnership .partnership-and-vacancy .contact-info .tel {
         float: none;
-        margin: 0 auto;
-        margin-bottom: 40px;
-        text-align: center
+        margin: 20px auto
     }
-    main.container .company-info .standart {
-        float: none;
+    section.map2 {
+        height: 350px
+    }
+    section.our-dialers .address-dialers-list li {
+        margin-bottom: 25px
+    }
+    section.white-block-services .container .col-lg-7 .img-rifle img, section.dark-block-services .container .col-lg-7 .img-rifle img {
         width: 100%;
-        text-align: center;
-        margin-bottom: 15px
+        margin: 0 auto
     }
-}
-@media (max-width: 981px) {
-    .header .navbar .navbar-inner .navbar-toggle {
-        margin-top: 19px
+    section.dark-block-services .container .col-lg-7 .img-rifle img {
+        margin-left: -90px
     }
-    .header .navbar .navbar-inner .collapse.cola {
-        padding-left: 7px;
-        padding-right: 7px
+    section.dark-block-services:nth-child(5) .col-lg-7 .img-rifle span {
+        position: initial
     }
-    .header .navbar .navbar-inner .collapse.cola .nav li a {
-        padding-right: 11px;
-        font-size: 11px;
-        font-weight: 700;
-        padding-left: 0
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li:last-child form {
-        padding-left: 11px;
-        margin-left: 0
-    }
-    .header .navbar .navbar-inner .collapse.cola .nav li:last-child form input {
-        width: 180px
-    }
-    main.container .company-info {
-        max-width: 47.91%
-    }
-}
-@media (max-width: 941px) {
-    header.header .shapka.container-fluid .wrapper > div {
-        padding: 5px
-    }
-    header.header .shapka.container-fluid .wrapper .logo {
-        margin-top: -25px;
-        padding-left: 20px
-    }
-    header.header .shapka.container-fluid .wrapper .logo img {
-        width: 82px
-    }
-    header.header .shapka.container-fluid .wrapper .contacts {
-        padding-right: 0;
-        width: 145px
-    }
-    header.header .shapka.container-fluid .wrapper .contacts .number {
-        padding-right: 10px;
-        font-size: 18px;
-        width: 149px;
-        display: block
-    }
-    header.header .shapka.container-fluid .wrapper .contacts a {
-        float: left;
-        margin-left: 25px;
-        margin-top: -7px
-    }
-    header.header .shapka.container-fluid .wrapper .consultation a {
-        width: 170px;
-        padding: 4px
-    }
-}
-@media (max-width: 900px) {
-    main.container .company-info.col-md-12 {
-        max-width: 100% !important;
-        float: none;
-        width: 100% !important
-    }
-    main.container .company-info.col-md-12 div.standarts {
-        margin: 0 auto;
-        margin-bottom: 60px;
-        margin-top: 20px
-    }
-    main.container section.company-info, main.container aside.right {
-        padding-right: 15px;
-        float: none
-    }
-    main.container section.company-info > a, main.container aside.right > a {
-        width: 100%
-    }
-    main.container section.company-info .schedule, main.container aside.right .schedule {
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-align: center;
-        align-items: center;
-        -ms-flex-pack: justify;
-        justify-content: space-between
-    }
-    main.container section.company-info .schedule .info-schedule, main.container aside.right .schedule .info-schedule {
-        padding-left: 10px;
-        padding-right: 10px
-    }
-    main.container aside.right, main.container .our-experts {
-        width: auto;
-        padding-right: 15px
-    }
-    main.container aside.right > a, main.container .our-experts > a {
-        width: 100%
-    }
-    main.container .archive {
-        margin-bottom: 15px
-    }
-    main.container aside.left .new {
-        padding-left: 10px;
-        padding-right: 10px
-    }
-    main.container aside.left {
-        float: none;
-        width: 100%;
-        padding-left: 15px;
-        padding-right: 15px;
-        text-align: center;
-        margin: 0 auto;
-        margin-bottom: 15px
-    }
-    main.container aside.left .new a {
-        margin: auto
-    }
-    main.container aside.left > a {
-        margin: auto;
-        width: 100%
-    }
-    main.container aside.our-experts {
-        float: left
-    }
-    main.container aside.our-experts .expert {
-        padding-bottom: 32px
-    }
-    main.container aside.our-experts .expert:nth-child(3) {
-        padding-bottom: 33px
-    }
-}
-@media (max-width: 792px) {
-    .footer {
-        padding-top: 45px
-    }
-    .footer .nav-footer li {
-        display: block;
-        margin-bottom: 15px
-    }
-    .footer .nav-footer li a {
-        padding-right: 0
+    section.dark-block-services:nth-child(5) .col-lg-7 .img-rifle .book {
+        width: 36%;
+        right: 40px;
+        bottom: -140px
     }
 }
 @media (max-width: 767px) {
-    header.header.container-fluid div.shapka .wrapper .consultation a {
-        width: 115px;
-        font-size: 10px
-    }
-    header.header.container-fluid div.shapka .wrapper .sign-in, header.header.container-fluid div.shapka .wrapper .social-icons {
-        display: none
-    }
-    header.header.container-fluid div.shapka .wrapper .contacts {
-        width: 130px
-    }
-    header.header.container-fluid div.shapka .wrapper .contacts .number {
-        font-size: 15px;
-        padding-right: 6px
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in {
-        width: 310px;
+    .container-fluid .search input {
         position: absolute;
-        right: 5px;
-        float: right;
-        background-color: #efefef;
-        overflow: hidden;
-        z-index: 999999;
-        border: none
+        padding-left: 20px;
+        right: 0;
+        top: -78px;
+        z-index: 9;
+        border: 1px solid;
+        width: 305px;
+        height: 50px;
+        font-size: 20px;
+        background-color: rgba(63, 64, 63, 0.9);
+        color: #ac9455;
+        outline: none;
+        cursor: pointer
     }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav {
-        width: 310px;
-        float: right
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav li.none {
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-align: center;
-        align-items: center;
-        -ms-flex-pack: center;
-        justify-content: center
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav li {
-        display: block
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav li a {
-        padding: 10px;
-        padding-bottom: 0
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav li:last-child form {
-        border: none;
-        padding-left: 0;
-        width: 93%
-    }
-    header.header.container-fluid .navbar .navbar-inner .collapse.cola.navbar-collapse.in .nav li:last-child form input {
-        width: 92%
-    }
-}
-@media (max-width: 755px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -229px
-    }
-    header.header .prime {
-        padding-bottom: 100px
-    }
-    header.header .prime .container .text {
-        margin-bottom: -14px;
-        padding-right: 10px;
-        width: 83%;
-        margin-top: -10px
-    }
-    header.header .prime .container .text h1 {
-        font-size: 22px
-    }
-    main.container section.company-info .archive h3 {
-        margin-bottom: 0
-    }
-    main.container section.company-info .archive .archive-list {
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-pack: justify;
-        justify-content: space-between;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap
-    }
-    main.container section.company-info .archive .archive-list li {
-        height: 130px !important;
-        width: 323px;
-        background-color: #fbfbfb !important
-    }
-    main.container section.company-info .archive .archive-list li a {
-        padding-left: 60px;
-        padding-right: 10px;
-        background: url("../img/papka.png") no-repeat top 20px left 5px
-    }
-    main.container section.company-info .archive .archive-list li a .text {
-        width: 200px
-    }
-    main.container section.company-info .archive .archive-list li a .date {
-        margin-top: 20px;
-        font-size: 11px
-    }
-    main.container section.company-info .archive .archive-list li:last-child {
-        background-color: white !important;
-        width: 100%;
-        height: 95px !important
-    }
-    main.container section.company-info .archive .archive-list li:last-child a {
-        background-position: left top
-    }
-    main.container section.company-info .archive .archive-list li:last-child a .text {
-        width: auto
-    }
-}
-@media (max-width: 692px) {
-    main.container section.company-info .archive .archive-list li {
-        width: 100%;
-        height: 120px !important
-    }
-    main.container section.company-info .archive .archive-list li a {
-        padding-bottom: 35px;
-        background-position: left top;
-        font-size: 10px
-    }
-    main.container section.company-info .archive .archive-list li a .text {
-        width: 72%
-    }
-    main.container section.company-info .archive .archive-list li:last-child {
-        height: 120px !important
-    }
-    main.container section.company-info .archive .archive-list li:last-child a .text {
-        width: 72%
-    }
-}
-@media (max-width: 550px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -261px
-    }
-}
-@media (max-width: 476px) {
-    main.container section.company-info .schedule, main.container aside.right .schedule {
-        display: inline-block !important;
-        width: 100%
-    }
-    main.container section.company-info .schedule .rec-but, main.container aside.right .schedule .rec-but {
-        margin: 20px auto
-    }
-    main.container section.company-info .schedule .info-schedule, main.container aside.right .schedule .info-schedule {
-        padding-left: 10px;
-        padding-right: 10px;
-        max-width: none
-    }
-    main.container aside.right, main.container aside.our-experts {
-        float: none;
-        text-align: center;
-        margin: 0 auto;
-        margin-bottom: 10px
-    }
-    main.container section.company-info {
-        padding-right: 15px
-    }
-    main.container section.company-info div.standarts {
-        height: auto
-    }
-    main.container section.company-info div.standarts > a {
-        margin-bottom: 55px
-    }
-    main.container section.company-info div.standarts > span {
-        width: 295px
-    }
-    main.container section.company-info div.standarts .book-list {
-        -ms-flex-direction: column;
-        flex-direction: column;
-        display: -ms-flexbox;
-        display: flex;
-        position: inherit;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        -ms-flex-align: center;
-        align-items: center;
-        -ms-flex-pack: distribute;
-        justify-content: space-around
-    }
-    main.container section.company-info div.standarts .book-list div.item {
-        margin-bottom: 33px;
-        margin-top: 5px;
-        box-shadow: -2px 14px 107px 0px #6A6C6C
-    }
-    main.container section.company-info div.standarts .book-list div.item:first-child {
-        padding-top: 20px
-    }
-    main.container section.company-info div.standarts .book-list div.item:before {
-        display: none
-    }
-    main.container section.company-info div.standarts .book-list div.item:after {
-        display: none
-    }
-    main.container section.company-info div.standarts .book-list div.item .img:after {
-        background-position: left -7px center
-    }
-    main.container section.company-info div.standarts .book-list div.item .bottom-figure {
-        display: none
-    }
-    main.container section.company-info .archive h3 {
-        padding-left: 30px;
+    .header .header-nav-inner .header-search {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+        z-index: 99;
         padding-right: 30px
     }
-}
-@media (max-width: 463px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -281px
+    section.our-history .history-in-years {
+        background: inherit;
+        padding-top: 85px
+    }
+    section.our-history .history-in-years .col-md-4 img {
+        display: block;
+        margin: 0 auto
+    }
+    section.our-history .history-in-years .col-md-4 {
+        margin-bottom: 25px
+    }
+    section.our-history .history-in-years .col-md-7 {
+        padding-left: 15px;
+        text-align: center
+    }
+    section.our-history .history-in-years .col-md-7 p {
+        padding: 0
+    }
+    section.our-history .history-in-years .col-md-7 .history-text {
+        padding: 0;
+        margin: 0 auto;
+        margin-bottom: 30px
+    }
+    section.our-history .history-in-years .col-md-7 .history-text:after {
+        display: none
+    }
+    section.our-history .history-in-years .col-md-7 .history-text:before {
+        left: 43%;
+        font-size: 11px;
+        text-align: left;
+        top: -19px;
+        width: auto
+    }
+    main.blog-main.wiki-main.wiki-main-list .container .wiki-lists form {
+        float: none;
+        width: 100%;
+        margin-bottom: 25px
+    }
+    main.blog-main.wiki-main.wiki-main-list .container .aside {
+        margin: 25px auto;
+        text-align: center
+    }
+    main.blog-main.wiki-main.wiki-main-list .container .aside .aside-social {
+        margin: 0 auto
+    }
+    .page .banner .main-carousel-outer .container .main-carousel-title {
+        font-size: 40px
+    }
+    section.our-dialers .address-dialers-list li {
+        width: 320px;
+        margin: 0 auto;
+        float: none
+    }
+    section.our-dialers .address-dialers-list li .address-dialer {
+        padding-right: 30px
+    }
+    section.contacts.contacts-partners .container h2, .banner.partners-banner .prime-partners h1 {
+        font-size: 36px
+    }
+    .footer-item-wrapper {
+        margin: 0 0
+    }
+    section.white-block-services .container .col-md-5, section.dark-block-services .container .col-md-5 {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    section.white-block-services .container .col-md-7, section.dark-block-services .container .col-md-7 {
+        padding-left: 15px;
+        padding-right: 15px
+    }
+    section .container .col-lg-7 .img-rifle img {
+        padding-top: 25px
     }
 }
-@media (max-width: 448px) {
-    header.header .shapka.container-fluid .wrapper > div {
-        margin-bottom: 10px
+@media (max-width: 600px) {
+    section.contacts .contacts-form-inputs .input-text {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 20px
     }
-    header.header .shapka.container-fluid .wrapper .logo {
+    section.contacts .contacts-form-inputs .input-text:nth-child(2) {
+        margin: 0
+    }
+    section.dark-block-services:nth-child(5) .col-lg-7 .img-rifle span {
+        position: initial;
+        margin: 0 auto;
+        display: block;
+        padding: 0;
+        width: 232px
+    }
+    section.dark-block-services:nth-child(5) .col-lg-7 .img-rifle .book {
+        position: initial;
+        display: block;
+        width: 200px;
+        margin: 0 auto
+    }
+    section.white-block-services .container .col-lg-5 ul, section.dark-block-services .container .col-lg-5 ul {
+        padding-left: 10px
+    }
+    section.white-block-services .container .col-lg-5 ul li, section.dark-block-services .container .col-lg-5 ul li {
+        padding-left: 45px
+    }
+}
+@media (max-width: 500px) {
+    section.white-block-services:nth-child(4) .container .col-lg-7 .img-rifle img {
+        margin: 0
+    }
+    section.dark-block-services .container .col-lg-7 .img-rifle .book {
+        float: none
+    }
+    section.dark-block-services .container .col-lg-7 .img-rifle img {
+        margin-left: 0;
+        float: right;
+        margin-right: 13%
+    }
+}
+@media (max-width: 398px) {
+    .container-fluid .search input {
+        width: 235px;
+        padding-right: 30px;
+        font-size: 14px
+    }
+    section.our-history .history-in-years .col-md-4 img {
+        width: 100%
+    }
+}
+@media screen and (min-width: 768px) {
+    .header-menu {
+        display: inline-block !important
+    }
+}
+@media screen and (max-width: 1199px) {
+    .header-menu > li {
+        margin-right: 20px
+    }
+    .services-item {
+        margin-bottom: 50px
+    }
+    .tabs-caption li {
+        padding-right: 20px
+    }
+    .presentation-name-first {
+        font-size: 100px
+    }
+    .presentation-name-second {
+        font-size: 185px;
+        margin-top: -40px
+    }
+    .presentation-name-third {
+        font-size: 180px;
+        margin-top: -70px
+    }
+    .presentation-dark .presentation-name-first {
+        font-size: 100px
+    }
+    .presentation-dark .presentation-name-second {
+        font-size: 185px;
+        margin-top: -40px
+    }
+    .presentation-dark .presentation-name-third {
+        font-size: 180px;
+        margin-top: -70px
+    }
+    .owl-prev {
+        left: -10px !important
+    }
+    .owl-next {
+        right: -10px !important
+    }
+    .about-prod-name-first {
+        font-size: 100px
+    }
+    .about-prod-name-second {
+        font-size: 170px;
+        margin-top: -40px
+    }
+    .about-prod-name-third {
+        font-size: 180px;
+        margin-top: -70px
+    }
+    .about-prod-picture {
+        bottom: -190px
+    }
+    .product-main-control {
+        margin-top: 40px
+    }
+    .product-picture img {
+        max-width: 100%
+    }
+    .aside {
+        padding-left: 30px
+    }
+}
+@media screen and (max-width: 991px) {
+    .header {
+        padding-top: 35px
+    }
+    .header-menu > li {
+        margin-right: 35px
+    }
+    .header-nav-inner {
+        width: 100%;
+        text-align: center;
+        margin-top: 14px
+    }
+    .header-logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .presentation-content {
+        float: none !important;
+        max-width: 100% !important;
+        width: 100%
+    }
+    .presentation .tabs {
+        max-width: 100% !important
+    }
+    .presentation-graphic {
+        float: none !important;
+        width: 100% !important;
+        padding-bottom: 0
+    }
+    .presentation-name {
+        text-align: center;
+        margin-top: 30px
+    }
+    .presentation-name-first {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important;
+        margin-right: 10px
+    }
+    .presentation-name-first:before, .presentation-name-first:after {
+        display: none
+    }
+    .presentation-name-second {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important;
+        margin-right: 10px
+    }
+    .presentation-name-third {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important
+    }
+    .presentation-picture {
+        max-width: 100%;
+        position: static
+    }
+    .presentation-dark .presentation-type {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .presentation-dark .presentation-label {
+        margin-top: 20px
+    }
+    .short-blog-description {
+        min-height: auto;
+        margin-bottom: 20px
+    }
+    .footer-item {
+        width: 33.33333333333%
+    }
+    .footer-item-wrapper {
+        text-align: left
+    }
+    .about-prod-graphic {
+        float: none !important;
+        width: 100% !important;
+        padding-bottom: 0;
+        padding-right: 0
+    }
+    .about-prod-title {
+        font-size: 35px
+    }
+    .about-prod-picture img {
+        max-width: 100%
+    }
+    .about-prod-content {
+        width: 100%;
+        margin-top: 30px
+    }
+    .about-prod-type {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 15px
+    }
+    .about-prod-name {
+        text-align: center
+    }
+    .about-prod-name-first {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important;
+        margin-right: 10px
+    }
+    .about-prod-name-first:before, .about-prod-name-first:after {
+        display: none
+    }
+    .about-prod-name-second {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important;
+        margin-right: 10px
+    }
+    .about-prod-name-third {
+        font-size: 50px !important;
+        display: inline-block !important;
+        margin-top: 0 !important
+    }
+    .about-prod-picture {
+        max-width: 100%;
+        position: static
+    }
+    .prod-info-content {
+        padding-right: 0;
+        width: 100%;
+        float: none;
+        margin-bottom: 50px
+    }
+    .prod-info-list {
+        width: 25%
+    }
+    .prod-info-main-list {
+        width: 50%
+    }
+    .product-text {
+        margin-bottom: 30px
+    }
+    .product-main-control {
+        width: 35%
+    }
+    .product-picture {
+        width: 65%
+    }
+    .comments-content {
+        padding-right: 25px
+    }
+    .article-title {
+        font-size: 35px
+    }
+}
+@media screen and (max-width: 767px) {
+    .mobile-burger {
+        display: block
+    }
+    .banner {
+        height: auto
+    }
+    .header-nav-inner {
+        position: relative
+    }
+    .header-search {
+        position: absolute;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto 0
+    }
+    .header-menu {
+        position: absolute;
+        padding: 20px;
+        width: 100%;
+        left: 0;
+        top: 79px;
+        background-color: rgba(63, 64, 63, 0.9);
+        z-index: 1000;
+        display: none;
+        margin-top: 0
+    }
+    .header-menu > li {
+        display: block;
+        margin-right: 0;
+        text-align: left;
+        margin-bottom: 15px
+    }
+    .header-menu > li:last-child {
         margin-bottom: 0
     }
-    header.header .shapka.container-fluid .wrapper .social-icons {
-        position: absolute;
-        left: 105px;
-        top: 30px
+    .header-menu a {
+        color: #fff
     }
-}
-@media (max-width: 426px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -281px
+    .main-carousel-title {
+        font-size: 35px;
+        margin-bottom: 45px
     }
-    header.header .shapka.container-fluid {
-        height: 250px
+    .about-arms-title {
+        font-size: 35px
     }
-    header.header .shapka.container-fluid .wrapper {
-        -ms-flex-direction: column;
-        flex-direction: column;
-        -ms-flex-align: center;
-        align-items: center
+    .about-arms-name {
+        position: static;
+        text-align: center;
+        padding-bottom: 20px
     }
-    header.header .shapka.container-fluid .wrapper .logo {
+    .title {
+        font-size: 35px
+    }
+    .achievements {
+        padding-bottom: 50px
+    }
+    .services {
+        padding-bottom: 50px
+    }
+    .presentation {
+        padding-top: 65px;
+        padding-bottom: 50px
+    }
+    .presentation-label {
+        font-size: 35px
+    }
+    .presentation-type {
+        font-size: 14px
+    }
+    .tabs-caption {
+        padding-bottom: 20px
+    }
+    .tabs-caption li {
+        display: block;
+        margin-bottom: 15px;
+        padding-bottom: 4px
+    }
+    .tabs-caption li:last-child {
+        margin-bottom: 0
+    }
+    .product-main-control {
+        width: 100%;
+        float: none;
+        text-align: center
+    }
+    .product-picture {
+        width: 100%;
+        float: none;
+        margin-top: 20px
+    }
+    .with-aside {
+        float: none;
+        width: 100%
+    }
+    .aside {
+        margin-top: 50px;
         padding-left: 0
     }
-    header.header .shapka.container-fluid .wrapper .social-icons {
-        position: inherit
+    .blog-main {
+        margin-bottom: 30px
+    }
+    .comments-content {
+        width: calc(100% - 65px)
+    }
+    .comments-control {
+        float: none;
+        width: 100%;
+        overflow: hidden;
+        padding-left: 90px
+    }
+    .comments-control a {
+        display: inline-block;
+        margin-right: 10px
     }
 }
-@media (max-width: 402px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -333px
+@media screen and (max-width: 500px) {
+    .short-blog-archive {
+        position: static;
+        display: block;
+        text-align: center;
+        margin-bottom: 20px
+    }
+    .short-blog .title-description {
+        margin-bottom: 30px
+    }
+    .contacts-form-inputs .input-text {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        width: 100% !important;
+        margin-bottom: 20px
+    }
+    .contacts-form-inputs .input-text:last-child {
+        margin-bottom: 0
+    }
+    .footer-item {
+        width: 50%
+    }
+    .prod-info-list {
+        width: 50%
+    }
+    .prod-info-main-list {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 50px;
+        overflow: hidden
+    }
+    .product-el-outer {
+        width: 100%
+    }
+    .product-el {
+        text-align: left;
+        margin-bottom: 36px !important
+    }
+    .product-el label {
+        margin-right: 12px !important;
+        margin-left: 0 !important
+    }
+    .comments-form-inputs .input-text {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        width: 100% !important;
+        margin-bottom: 20px
+    }
+    .comments-form-inputs .input-text:last-child {
+        margin-bottom: 0
     }
 }
-@media (max-width: 385px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -333px
+@media screen and (max-width: 425px) {
+    .comments-picture {
+        display: block;
+        float: none;
+        margin-bottom: 10px
+    }
+    .comments-content {
+        padding-left: 0;
+        width: 100%
+    }
+    .comments-control {
+        padding-left: 0
     }
 }
-@media (max-width: 331px) {
-    header.header #bs-example-navbar-collapse-1.cola.navbar-collapse.in {
-        top: -365px
+@media screen and (max-width: 375px) {
+    .footer-item {
+        width: 100%
     }
 }
